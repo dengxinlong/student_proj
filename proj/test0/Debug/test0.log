@@ -1,0 +1,8 @@
+﻿  config.c
+E:\王道培训\C\学生信息管理系统\day10\test0\config.c(386,10): warning C4033:  “search_usr_infor_by_id”必须返回值
+E:\王道培训\C\学生信息管理系统\day10\test0\config.c(402,10): warning C4033:  “search_usr_infor_by_name”必须返回值
+E:\王道培训\C\学生信息管理系统\day10\test0\config.c(511,29): warning C4133:  “函数”: 从“pUSR_ACCOUNT”到“const char *”的类型不兼容
+E:\王道培训\C\学生信息管理系统\day10\test0\config.c(511,29): warning C4133: E:\王道培训\C\学生信息管理系统\day10\test0\config.c(242) : warning C4715: “comfirm_usr”: 不是所有的控件路径都返回值
+E:\王道培训\C\学生信息管理系统\day10\test0\config.c(511,29): warning C4133: E:\王道培训\C\学生信息管理系统\day10\test0\config.c(391) : warning C4716: “search_usr_infor_by_id”: 必须返回一个值
+E:\王道培训\C\学生信息管理系统\day10\test0\config.c(511,29): warning C4133: E:\王道培训\C\学生信息管理系统\day10\test0\config.c(407) : warning C4716: “search_usr_infor_by_name”: 必须返回一个值
+  test0.vcxproj -> E:\王道培训\C\学生信息管理系统\day10\Debug\test0.exe
